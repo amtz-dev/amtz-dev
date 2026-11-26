@@ -1,6 +1,6 @@
 # Andrés Martínez
 
-Desarrollador de software y fundador de [MRZ Labs](https://github.com/mrzlabs). Construyo CRM, automatización y soluciones de datos para negocios en Colombia.
+Desarrollador de software y colaborador en [MRZ Labs](https://github.com/mrzlabs). Construyo CRM, automatización y soluciones de datos para negocios en Colombia.
 
 ## En qué trabajo
 
